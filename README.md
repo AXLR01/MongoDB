@@ -3,7 +3,7 @@
 
 # Membre du groupe
 Raphaël Camizumi &
-Clément Champion #champilasalope
+Clément Champion
 
 # Installation
 _npm install_
